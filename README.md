@@ -1,6 +1,6 @@
 # 🌌 Ctruh Planetary Explorer
 
-<img src="https://spherectruh.s3.ap-south-1.amazonaws.com/homepage_small.png" alt="Home Page" width="500"/>
+![Home Page](https://spherectruh.s3.ap-south-1.amazonaws.com/homepage.png)
 
 ## 🚀 Overview
 
@@ -8,7 +8,7 @@ Ctruh Planetary Explorer is an interactive 3D web application that showcases a c
 
 [🔗 Live Demo](https://your-live-demo-link-here.com)
 
-<img src="https://spherectruh.s3.ap-south-1.amazonaws.com/workingpage_small.png" alt="Working Page" width="500"/>
+![Working Page](https://spherectruh.s3.ap-south-1.amazonaws.com/workingpage.png)
 
 ## 🎯 Problem Statement
 
